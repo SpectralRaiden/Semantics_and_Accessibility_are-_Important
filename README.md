@@ -1,13 +1,11 @@
 # The Signifigance of Refactoring Code
 
 ## **What is Refactoring**
----
 <br/>
 
 Refactoring is the process of restructuring code, while not changing its original functionality. The goal of refactoring is to improve internal code by making many small changes without altering the code's external behavior.
 
 ## **Refactoring in this Project**
----
 <br/>
 
 Semantic elements introduced in HTML5 not only help better structure your code, but also adds implicit meaning to the parts that make up your code. This was originally done with` <div>` tags with classes denoting the purpose i.e. `<div class="header">`. However `<div>` has no meaning of it's own.
